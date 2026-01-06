@@ -1,0 +1,41 @@
+name,iata_code,ident,latitude_deg,longitude_deg,type,municipality,scheduled_service
+Belfast International Airport,BFS,EGAA,54.6575012207,-6.2158298492399995,large_airport,Belfast,yes
+George Best Belfast City Airport,BHD,EGAC,54.618099,-5.8725,medium_airport,Belfast,yes
+City of Derry Airport,LDY,EGAE,55.04280090332031,-7.161109924316406,medium_airport,Derry,yes
+Birmingham Airport,BHX,EGBB,52.453899,-1.74803,large_airport,"Birmingham, West Midlands",yes
+Manchester Airport,MAN,EGCC,53.349375,-2.279521,large_airport,"Manchester, Greater Manchester",yes
+Campbeltown Airport,CAL,EGEC,55.437199,-5.68639,medium_airport,Campbeltown,yes
+Eday Airport,EOI,EGED,59.19060134887695,-2.7722198963165283,medium_airport,Eday,yes
+Cardiff International Airport,CWL,EGFF,51.396702,-3.34333,medium_airport,Cardiff,yes
+Bristol Airport,BRS,EGGD,51.382702,-2.71909,medium_airport,Bristol,yes
+Liverpool John Lennon Airport,LPL,EGGP,53.333599,-2.84972,medium_airport,Liverpool,yes
+London Luton Airport,LTN,EGGW,51.874699,-0.368333,large_airport,"Luton, Bedfordshire",yes
+Bournemouth Airport,BOH,EGHH,50.780483,-1.839576,medium_airport,Bournemouth,yes
+Southampton Airport,SOU,EGHI,50.950298,-1.3568,medium_airport,Southampton,yes
+Cornwall Airport Newquay,NQY,EGHQ,50.440601,-4.99541,medium_airport,Newquay,yes
+London Gatwick Airport,LGW,EGKK,51.148771,-0.192089,large_airport,London,yes
+London City Airport,LCY,EGLC,51.505299,0.055278,medium_airport,London,yes
+London Heathrow Airport,LHR,EGLL,51.4706,-0.461941,large_airport,London,yes
+London Southend Airport,SEN,EGMC,51.570562,0.693627,medium_airport,"Southend-on-Sea, Essex",yes
+Humberside Airport,HUY,EGNJ,53.576152,-0.34954,medium_airport,"Grimsby, Lincolnshire",yes
+Leeds Bradford Airport,LBA,EGNM,53.865898,-1.66057,medium_airport,"Leeds, West Yorkshire",yes
+Newcastle International Airport,NCL,EGNT,55.037958,-1.689577,medium_airport,"Newcastle upon Tyne, Tyne and Wear",yes
+Teesside International Airport,MME,EGNV,54.509201,-1.42941,medium_airport,"Darlington, Durham",yes
+East Midlands Airport,EMA,EGNX,52.8311,-1.32806,medium_airport,Nottingham,yes
+Kirkwall Airport,KOI,EGPA,58.957801818847656,-2.9049999713897705,medium_airport,Orkney Islands,yes
+Sumburgh Airport,LSI,EGPB,59.878899,-1.29556,medium_airport,"Lerwick, Shetland",yes
+Wick John O'Groats Airport,WIC,EGPC,58.4589,-3.09306,medium_airport,Wick,yes
+Aberdeen International Airport,ABZ,EGPD,57.2019,-2.19778,medium_airport,Aberdeen,yes
+Inverness Airport,INV,EGPE,57.5425,-4.0475,medium_airport,Inverness,yes
+Glasgow Airport,GLA,EGPF,55.871899,-4.43306,large_airport,Glasgow,yes
+Edinburgh Airport,EDI,EGPH,55.950145,-3.372288,large_airport,Edinburgh,yes
+Islay Airport,ILY,EGPI,55.682708,-6.257525,medium_airport,"Isle of Islay, Argyll and Bute",yes
+Glasgow Prestwick Airport,PIK,EGPK,55.502003,-4.587019,medium_airport,"Prestwick, South Ayrshire",yes
+Benbecula Airport,BEB,EGPL,57.481098,-7.36278,medium_airport,Balivanich,yes
+Dundee Airport,DND,EGPN,56.452499,-3.02583,medium_airport,Dundee,yes
+Stornoway Airport,SYY,EGPO,58.215599,-6.33111,medium_airport,"Stornoway, Western Isles",yes
+Barra Airport,BRR,EGPR,57.0228,-7.44306,medium_airport,Eoligarry,yes
+Tiree Airport,TRE,EGPU,56.49919891357422,-6.869170188903809,medium_airport,Balemartine,yes
+Norwich Airport,NWI,EGSH,52.6758,1.28278,medium_airport,"Norwich, Norfolk",yes
+London Stansted Airport,STN,EGSS,51.884998,0.235,large_airport,London,yes
+Exeter International Airport,EXT,EGTE,50.734261,-3.413984,medium_airport,"Exeter, Devon",yes
